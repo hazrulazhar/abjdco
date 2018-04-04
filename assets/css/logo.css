@@ -1,8 +1,8 @@
 @font-face {
-  font-family: abjdFont;
-  src: url("../fonts/smooth-circulars.otf");
+  font-family: 'abjdFont';
+  src: url('../fonts/smooth-circulars.otf') format('opentype');
 }
 
 h1 {
-  font-family: abjdFont;
+  font-family: 'abjdFont';
 }
