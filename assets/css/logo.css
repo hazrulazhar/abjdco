@@ -1,6 +1,6 @@
 @@font-face {
   font-family: abjdFont;
-  src: url(../fonts/smooth-circulars.otf);
+  src: url("../fonts/smooth-circulars.otf");
 }
 
 h1 {
