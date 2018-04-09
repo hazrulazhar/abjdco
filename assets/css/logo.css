@@ -5,6 +5,10 @@
 
 h1.logo {
   font-family: 'abjdFont';
+  display: block;
+  width: 200px;
+  text-align: center;
+  margin: auto auto;
 }
 
 h1.logo a {
@@ -14,8 +18,10 @@ h1.logo a {
 span.vflip {
   position: relative;
   display: inline-block;
-  right: -0.5px;
-  top: 5px;
+  padding-bottom: 7px;
+  left: 0px;
+  text-align: center;
+  margin: auto auto;
   -moz-transform: scaleY(-1);
   -o-transform: scaleY(-1);
   -webkit-transform: scaleY(-1);
