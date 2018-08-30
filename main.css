@@ -6,35 +6,6 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-#hellobar-bar {
-	font-size: 12px;
-	padding: 10px;
-	padding-bottom: 0px;
-}
-
-.hb-cta {
-	width: 100px;
-	height: 10px;
-	background: #161;
-	padding: 5px;
-	border-radius: 10px;
-}
-
-.hb-cta a {
-	text-decoration: none;
-}
-
-.hb-cta a:link {
-	text-decoration: none;
-}
-
-.hb-close-wrapper {
-	position: absolute;
-	right: 10px;
-	top: 50px;
-	z-index: 1000;
-}
-
 /* Reset */
 
 	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
